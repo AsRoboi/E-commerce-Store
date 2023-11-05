@@ -1,0 +1,30 @@
+:root{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.card body{
+    display: flex;
+}
+    
+
+
+.h2{
+    text-align: center;
+}
+.cards{
+    display: flex;
+    width: 73%;
+    padding: 1.5em;
+    margin: 2em; 
+}
+.card-title{
+    font-size: 1.3rem;
+    text-align: left;
+    margin-bottom: 1 rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

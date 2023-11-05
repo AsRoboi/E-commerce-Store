@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+#card body{
+    display: flex;
+}
+    
+
+
+
+.cards{
+    width: 73%;
+    padding: 1.5em;
+    margin: 2em; 
+}
+.card-title{
+    font-size: 1.3rem;
+    text-align: left;
+    margin-bottom: 1 rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
